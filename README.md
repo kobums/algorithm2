@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kobums/algorithm2/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kobums/algorithm2/tree/master/0543-diameter-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kobums/algorithm2/tree/master/0739-daily-temperatures) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kobums/algorithm2/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kobums/algorithm2/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
