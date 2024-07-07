@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kobums/algorithm2/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/kobums/algorithm2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/kobums/algorithm2/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/kobums/algorithm2/tree/master/0883-car-fleet) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kobums/algorithm2/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
