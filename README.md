@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kobums/algorithm2/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/kobums/algorithm2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/kobums/algorithm2/tree/master/0883-car-fleet) |
 ## Stack
@@ -35,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kobums/algorithm2/tree/master/0217-contains-duplicate) |
 | [0883-car-fleet](https://github.com/kobums/algorithm2/tree/master/0883-car-fleet) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kobums/algorithm2/tree/master/0155-min-stack) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kobums/algorithm2/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
