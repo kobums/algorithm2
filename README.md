@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kobums/algorithm2/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/kobums/algorithm2/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/kobums/algorithm2/tree/master/1023-time-based-key-value-store) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kobums/algorithm2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kobums/algorithm2/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kobums/algorithm2/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/kobums/algorithm2/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kobums/algorithm2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kobums/algorithm2/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kobums/algorithm2/tree/master/0347-top-k-frequent-elements) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kobums/algorithm2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kobums/algorithm2/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kobums/algorithm2/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/kobums/algorithm2/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/kobums/algorithm2/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kobums/algorithm2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kobums/algorithm2/tree/master/0567-permutation-in-string) |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kobums/algorithm2/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kobums/algorithm2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kobums/algorithm2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kobums/algorithm2/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
