@@ -1,23 +1,29 @@
 func permute(nums []int) [][]int {
-     result := [][]int{}
-    backtrack(nums, nil, &result)
-    return result
+    n := len(nums)
+	vector := make([]int, n)
+	taken := make([]bool, n)
+
+	ans := [][]int{}
+
+	makePermutation(0, n, nums, vector, taken, &ans)
+
+	return ans
 }
 
-// backtrack function generates permutations using backtracking.
-func backtrack(nums []int, current []int, result *[][]int) {
-    if len(nums) == 0 {
-        temp := make([]int, len(current))
-        copy(temp, current)
-        *result = append(*result, temp)
-        return
-    }
+func makePermutation(cur, n int, nums, vector []int, taken []bool, ans *[][]int) {
+	if cur == n {
+		tmp := make([]int, n)
+		copy(tmp, vector)
+		*ans = append(*ans, tmp)
+		return
+	}
 
-    for i := 0; i < len(nums); i++ {
-        newNums := append([]int{}, nums[:i]...)
-        newNums = append(newNums, nums[i+1:]...)
-        current = append(current, nums[i])
-        backtrack(newNums, current, result)
-        current = current[:len(current)-1]
-    }
+	for i := 0; i < n; i++ {
+		if !taken[i] {
+			taken[i] = true
+			vector[cur] = nums[i]
+			makePermutation(cur+1, n, nums, vector, taken, ans)
+			taken[i] = false
+		}
+	}
 }
