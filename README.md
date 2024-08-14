@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kobums/algorithm2/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/kobums/algorithm2/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kobums/algorithm2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kobums/algorithm2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kobums/algorithm2/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kobums/algorithm2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobums/algorithm2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kobums/algorithm2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kobums/algorithm2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kobums/algorithm2/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kobums/algorithm2/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kobums/algorithm2/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/kobums/algorithm2/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kobums/algorithm2/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -201,11 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kobums/algorithm2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kobums/algorithm2/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kobums/algorithm2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kobums/algorithm2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kobums/algorithm2/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kobums/algorithm2/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kobums/algorithm2/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
