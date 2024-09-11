@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kobums/algorithm2/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobums/algorithm2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/kobums/algorithm2/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kobums/algorithm2/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
