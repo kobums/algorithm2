@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kobums/algorithm2/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kobums/algorithm2/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/kobums/algorithm2/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0747-min-cost-climbing-stairs) |
 | [0883-car-fleet](https://github.com/kobums/algorithm2/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/kobums/algorithm2/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobums/algorithm2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/kobums/algorithm2/tree/master/0131-palindrome-partitioning) |
+| [0747-min-cost-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
