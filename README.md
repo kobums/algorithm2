@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kobums/algorithm2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kobums/algorithm2/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kobums/algorithm2/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kobums/algorithm2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kobums/algorithm2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kobums/algorithm2/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/kobums/algorithm2/tree/master/0621-task-scheduler) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kobums/algorithm2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kobums/algorithm2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/kobums/algorithm2/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/kobums/algorithm2/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/kobums/algorithm2/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/kobums/algorithm2/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kobums/algorithm2/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kobums/algorithm2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kobums/algorithm2/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/kobums/algorithm2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kobums/algorithm2/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/kobums/algorithm2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0747-min-cost-climbing-stairs) |
