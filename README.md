@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/kobums/algorithm2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kobums/algorithm2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kobums/algorithm2/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/kobums/algorithm2/tree/master/0416-partition-equal-subset-sum) |
 | [0621-task-scheduler](https://github.com/kobums/algorithm2/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/kobums/algorithm2/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0747-min-cost-climbing-stairs) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kobums/algorithm2/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kobums/algorithm2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kobums/algorithm2/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/kobums/algorithm2/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/kobums/algorithm2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
