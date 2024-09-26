@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kobums/algorithm2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kobums/algorithm2/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kobums/algorithm2/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kobums/algorithm2/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kobums/algorithm2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/kobums/algorithm2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kobums/algorithm2/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kobums/algorithm2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kobums/algorithm2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/kobums/algorithm2/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kobums/algorithm2/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kobums/algorithm2/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kobums/algorithm2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kobums/algorithm2/tree/master/0217-contains-duplicate) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kobums/algorithm2/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/kobums/algorithm2/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kobums/algorithm2/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kobums/algorithm2/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/kobums/algorithm2/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kobums/algorithm2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kobums/algorithm2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kobums/algorithm2/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kobums/algorithm2/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kobums/algorithm2/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kobums/algorithm2/tree/master/0322-coin-change) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kobums/algorithm2/tree/master/1544-count-good-nodes-in-binary-tree) |
