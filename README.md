@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/kobums/algorithm2/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/kobums/algorithm2/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/kobums/algorithm2/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/kobums/algorithm2/tree/master/1127-last-stone-weight) |
 ## Stack
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kobums/algorithm2/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kobums/algorithm2/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kobums/algorithm2/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/kobums/algorithm2/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kobums/algorithm2/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kobums/algorithm2/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/kobums/algorithm2/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/kobums/algorithm2/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kobums/algorithm2/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
