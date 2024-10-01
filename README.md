@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kobums/algorithm2/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kobums/algorithm2/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/kobums/algorithm2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kobums/algorithm2/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kobums/algorithm2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kobums/algorithm2/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/kobums/algorithm2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kobums/algorithm2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kobums/algorithm2/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kobums/algorithm2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
