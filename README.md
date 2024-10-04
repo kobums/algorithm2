@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kobums/algorithm2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/kobums/algorithm2/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kobums/algorithm2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kobums/algorithm2/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kobums/algorithm2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kobums/algorithm2/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kobums/algorithm2/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/kobums/algorithm2/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/kobums/algorithm2/tree/master/0287-find-the-duplicate-number) |
 ## Breadth-First Search
 |  |
