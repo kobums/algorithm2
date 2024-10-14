@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kobums/algorithm2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kobums/algorithm2/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kobums/algorithm2/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/kobums/algorithm2/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kobums/algorithm2/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kobums/algorithm2/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/kobums/algorithm2/tree/master/0074-search-a-2d-matrix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kobums/algorithm2/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kobums/algorithm2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/kobums/algorithm2/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kobums/algorithm2/tree/master/0215-kth-largest-element-in-an-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kobums/algorithm2/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kobums/algorithm2/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/kobums/algorithm2/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kobums/algorithm2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kobums/algorithm2/tree/master/0091-decode-ways) |
