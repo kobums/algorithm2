@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kobums/algorithm2/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kobums/algorithm2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kobums/algorithm2/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kobums/algorithm2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kobums/algorithm2/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kobums/algorithm2/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/kobums/algorithm2/tree/master/0074-search-a-2d-matrix) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kobums/algorithm2/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kobums/algorithm2/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/kobums/algorithm2/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/kobums/algorithm2/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kobums/algorithm2/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kobums/algorithm2/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kobums/algorithm2/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kobums/algorithm2/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kobums/algorithm2/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kobums/algorithm2/tree/master/0091-decode-ways) |
