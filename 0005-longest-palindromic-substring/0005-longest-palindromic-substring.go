@@ -1,32 +1,39 @@
-func expandAroundCenter(s string, left, right int) (int, int) {
-	for left >= 0 && right < len(s) && s[left] == s[right] {
-		left--
-		right++
-	}
-	return left + 1, right - 1 // return valid bounds
-}
-
-// Function to return the longest palindromic substring
 func longestPalindrome(s string) string {
-	if len(s) == 0 {
-		return ""
-	}
+    n := len(s)
+    if n < 2 {
+        return s
+    }
 
-	start, end := 0, 0
-	for i := 0; i < len(s); i++ {
-		// Check for odd-length palindromes (center is s[i])
-		left1, right1 := expandAroundCenter(s, i, i)
-		// Check for even-length palindromes (center is between s[i] and s[i+1])
-		left2, right2 := expandAroundCenter(s, i, i+1)
+    // DP 테이블 생성
+    dp := make([][]bool, n)
+    for i := range dp {
+        dp[i] = make([]bool, n)
+    }
 
-		// Update the start and end pointers if a longer palindrome is found
-		if right1-left1 > end-start {
-			start, end = left1, right1
-		}
-		if right2-left2 > end-start {
-			start, end = left2, right2
-		}
-	}
+    start, maxLen := 0, 1
 
-	return s[start : end+1]
+    // 길이 1 초기화
+    for i := 0; i < n; i++ {
+        dp[i][i] = true
+    }
+
+    // 길이(len)를 기준으로 반복
+    for length := 2; length <= n; length++ {
+        for i := 0; i <= n-length; i++ {
+            j := i + length - 1
+            
+            if s[i] == s[j] {
+                // 길이가 2이거나 안쪽이 팰린드롬이면
+                if length == 2 || dp[i+1][j-1] {
+                    dp[i][j] = true
+                    if length > maxLen {
+                        start = i
+                        maxLen = length
+                    }
+                }
+            }
+        }
+    }
+
+    return s[start : start+maxLen]
 }
