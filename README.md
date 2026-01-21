@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/kobums/algorithm2/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/kobums/algorithm2/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kobums/algorithm2/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/kobums/algorithm2/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/kobums/algorithm2/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kobums/algorithm2/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/kobums/algorithm2/tree/master/0494-target-sum) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kobums/algorithm2/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kobums/algorithm2/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/kobums/algorithm2/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/kobums/algorithm2/tree/master/0338-counting-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
