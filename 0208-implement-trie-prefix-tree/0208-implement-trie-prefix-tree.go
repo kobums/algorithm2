@@ -1,56 +1,53 @@
+type TrieNode struct {
+    children map[rune]*TrieNode
+    isEnd    bool
+}
+
 type Trie struct {
-	val  byte
-	sons [26]*Trie
-	end  int
+    root *TrieNode
 }
 
 func Constructor() Trie {
-	return Trie{}
+    return Trie{
+        root: &TrieNode{
+            children: make(map[rune]*TrieNode),
+        },
+    }
 }
 
-func (this *Trie) Insert(word string) {
-	node := this
-	size := len(word)
-	for i := 0; i < size; i++ {
-		idx := word[i] - 'a'
-		if node.sons[idx] == nil {
-			node.sons[idx] = &Trie{val: word[i]}
-		}
-
-		node = node.sons[idx]
-	}
-
-	node.end++
+func (t *Trie) Insert(word string) {
+    node := t.root
+    
+    for _, char := range word {
+        if _, exists := node.children[char]; !exists {
+            node.children[char] = &TrieNode{
+                children: make(map[rune]*TrieNode),
+            }
+        }
+        node = node.children[char]
+    }
+    
+    node.isEnd = true
 }
 
-func (this *Trie) Search(word string) bool {
-	node := this
-	size := len(word)
-	for i := 0; i < size; i++ {
-		idx := word[i] - 'a'
-		if node.sons[idx] == nil {
-			return false
-		}
-		node = node.sons[idx]
-	}
-
-	if node.end > 0 {
-		return true
-	}
-
-	return false
+func (t *Trie) Search(word string) bool {
+    node := t.traverse(word)
+    return node != nil && node.isEnd
 }
 
-func (this *Trie) StartsWith(prefix string) bool {
-	node := this
-	size := len(prefix)
-	for i := 0; i < size; i++ {
-		idx := prefix[i] - 'a'
-		if node.sons[idx] == nil {
-			return false
-		}
-		node = node.sons[idx]
-	}
+func (t *Trie) StartsWith(prefix string) bool {
+    return t.traverse(prefix) != nil
+}
 
-	return true
+func (t *Trie) traverse(str string) *TrieNode {
+    node := t.root
+    
+    for _, char := range str {
+        if _, exists := node.children[char]; !exists {
+            return nil
+        }
+        node = node.children[char]
+    }
+    
+    return node
 }
