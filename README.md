@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/kobums/algorithm2/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/kobums/algorithm2/tree/master/1127-last-stone-weight) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kobums/algorithm2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kobums/algorithm2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
