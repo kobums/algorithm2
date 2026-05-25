@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kobums/algorithm2/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/kobums/algorithm2/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/kobums/algorithm2/tree/master/1250-longest-common-subsequence) |
+| [1871-jump-game-vii](https://github.com/kobums/algorithm2/tree/master/1871-jump-game-vii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kobums/algorithm2/tree/master/0238-product-of-array-except-self) |
+| [1871-jump-game-vii](https://github.com/kobums/algorithm2/tree/master/1871-jump-game-vii) |
 ## Greedy
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kobums/algorithm2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/kobums/algorithm2/tree/master/1250-longest-common-subsequence) |
+| [1871-jump-game-vii](https://github.com/kobums/algorithm2/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kobums/algorithm2/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/kobums/algorithm2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kobums/algorithm2/tree/master/0567-permutation-in-string) |
+| [1871-jump-game-vii](https://github.com/kobums/algorithm2/tree/master/1871-jump-game-vii) |
 ## Linked List
 |  |
 | ------- |
