@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/kobums/algorithm2/tree/master/1023-time-based-key-value-store) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kobums/algorithm2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kobums/algorithm2/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/kobums/algorithm2/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/kobums/algorithm2/tree/master/1250-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/kobums/algorithm2/tree/master/1871-jump-game-vii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kobums/algorithm2/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/kobums/algorithm2/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
