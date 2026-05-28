@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/kobums/algorithm2/tree/master/1127-last-stone-weight) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kobums/algorithm2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kobums/algorithm2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3093-longest-common-suffix-queries](https://github.com/kobums/algorithm2/tree/master/3093-longest-common-suffix-queries) |
 ## Stack
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/kobums/algorithm2/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/kobums/algorithm2/tree/master/1250-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/kobums/algorithm2/tree/master/1871-jump-game-vii) |
+| [3093-longest-common-suffix-queries](https://github.com/kobums/algorithm2/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kobums/algorithm2/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kobums/algorithm2/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Divide and Conquer
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kobums/algorithm2/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/kobums/algorithm2/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kobums/algorithm2/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3093-longest-common-suffix-queries](https://github.com/kobums/algorithm2/tree/master/3093-longest-common-suffix-queries) |
 ## Data Stream
 |  |
 | ------- |
