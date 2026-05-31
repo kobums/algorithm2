@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/kobums/algorithm2/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/kobums/algorithm2/tree/master/1127-last-stone-weight) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kobums/algorithm2/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2126-destroying-asteroids](https://github.com/kobums/algorithm2/tree/master/2126-destroying-asteroids) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kobums/algorithm2/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3093-longest-common-suffix-queries](https://github.com/kobums/algorithm2/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kobums/algorithm2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/kobums/algorithm2/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/kobums/algorithm2/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
+| [2126-destroying-asteroids](https://github.com/kobums/algorithm2/tree/master/2126-destroying-asteroids) |
 ## Design
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kobums/algorithm2/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/kobums/algorithm2/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/kobums/algorithm2/tree/master/0876-hand-of-straights) |
+| [2126-destroying-asteroids](https://github.com/kobums/algorithm2/tree/master/2126-destroying-asteroids) |
 ## Dynamic Programming
 |  |
 | ------- |
