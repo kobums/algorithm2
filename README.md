@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/kobums/algorithm2/tree/master/1250-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/kobums/algorithm2/tree/master/1871-jump-game-vii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kobums/algorithm2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kobums/algorithm2/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/kobums/algorithm2/tree/master/1014-k-closest-points-to-origin) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kobums/algorithm2/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kobums/algorithm2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kobums/algorithm2/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kobums/algorithm2/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
